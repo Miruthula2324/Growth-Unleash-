@@ -36,6 +36,7 @@ export default function Header() {
         transition={{ duration: 0.5 }}
         className="flex items-center gap-3"
       >
+        
         <Link href="/" className="flex items-center gap-3">
           <Image
             src="/favicon.ico"
