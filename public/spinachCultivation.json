@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Soil Preparation",
+    "description": "Spinach thrives in well-drained, nutrient-rich soil with a pH between 6.0 and 7.0.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Loamy, nutrient-rich soil with pH 6.0-7.0",
+    "watering": "Ensure moisture without overwatering",
+    "climate": "Ideal for cool climates, temperate zones"
+  },
+  {
+    "id": 2,
+    "name": "Planting Methods",
+    "description": "Spinach can be grown from seeds or transplants in rows or containers.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Fertile, well-drained soil",
+    "watering": "Moderate, keep soil consistently moist",
+    "climate": "Best for mild temperatures, avoid extreme heat"
+  },
+  {
+    "id": 3,
+    "name": "Watering Needs",
+    "description": "Requires consistent moisture but should not be overwatered.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Moist but well-drained",
+    "watering": "Regular, avoid waterlogging",
+    "climate": "Suitable for moderate humidity levels"
+  },
+  {
+    "id": 4,
+    "name": "Sunlight Requirements",
+    "description": "Grows best in full sun but tolerates partial shade.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Adaptable to various soil types",
+    "watering": "Light watering during extreme heat",
+    "climate": "Thrives in sunny but cool conditions"
+  },
+  {
+    "id": 5,
+    "name": "Temperature Conditions",
+    "description": "Thrives in cool weather between 10°C to 24°C.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Rich in organic matter",
+    "watering": "Regular watering during dry spells",
+    "climate": "Best in spring and autumn seasons"
+  },
+  {
+    "id": 6,
+    "name": "Fertilizer Requirements",
+    "description": "Spinach benefits from nitrogen-rich fertilizers.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Requires nitrogen-enriched soil",
+    "watering": "Balanced with fertilization",
+    "climate": "Fertilization supports growth in various climates"
+  },
+  {
+    "id": 7,
+    "name": "Pest Control",
+    "description": "Common pests include aphids, leaf miners, and caterpillars.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Healthy soil reduces pest risks",
+    "watering": "Avoid excessive moisture to prevent infestations",
+    "climate": "Proper airflow helps prevent pest issues"
+  },
+  {
+    "id": 8,
+    "name": "Disease Management",
+    "description": "Common diseases include downy mildew and root rot.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Well-draining soil to prevent root rot",
+    "watering": "Avoid overwatering, ensure proper air circulation",
+    "climate": "Cool, dry climates reduce disease spread"
+  },
+  {
+    "id": 9,
+    "name": "Harvesting Time",
+    "description": "Spinach is ready to harvest 4-6 weeks after planting.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "Retains nutrients for continued growth",
+    "watering": "Maintain consistent moisture before harvesting",
+    "climate": "Harvest in cooler temperatures for best results"
+  },
+  {
+    "id": 10,
+    "name": "Storage & Preservation",
+    "description": "Best stored at 0°C with high humidity to maintain freshness.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2019/03/How-to-Grow-Spinach-FB.jpg",
+    "soil": "No soil needed for storage, but proper handling is required",
+    "watering": "Avoid excess moisture before storage",
+    "climate": "Cold storage extends spinach shelf life"
+  }
+]
